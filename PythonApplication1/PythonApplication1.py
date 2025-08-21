@@ -11,6 +11,10 @@ def divide(x, y):
     if y == 0:
         return "Error: Division by zero"
     return x / y
+#test test git kupal
+def function(x,y):
+    return 2 * x + y 
+#try try
 
 def main():
     print("Basic Calculator")
