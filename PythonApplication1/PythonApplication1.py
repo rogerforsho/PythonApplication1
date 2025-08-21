@@ -11,6 +11,11 @@ def divide(x, y):
     if y == 0:
         return "Error: Division by zero"
     return x / y
+#test test git kupal
+#yawwa man doy
+def function(x,y):
+    return 2 * x + y 
+#try try
 
 def main():
     print("Basic Calculator")
@@ -43,3 +48,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
